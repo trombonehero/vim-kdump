@@ -1,6 +1,6 @@
 = vim-kdump
 
-Vim syntax highlighting from FreeBSD's 
+Vim syntax highlighting from FreeBSD's
 https://www.freebsd.org/cgi/man.cgi?query=kdump&sektion=1[`kdump(1)`]
 output (which is derived from binary
 https://www.freebsd.org/cgi/man.cgi?query=ktrace&sektion=1[`ktrace(1)`]
