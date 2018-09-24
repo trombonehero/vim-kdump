@@ -21,5 +21,5 @@ image::docs/kdump-highlighted.png[]
 
 Syntax highlighting will be applied when you either:
 
-1. open a file named `*.[k]dump` or `*.ktrace`; or
+1. open a file named `\*.[k]dump` or `*.ktrace`; or
 2. execute `set syntax=kdump`.
