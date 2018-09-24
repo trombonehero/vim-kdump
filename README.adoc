@@ -12,7 +12,7 @@ image::docs/kdump-highlighted.png[]
 
 == Installation
 
-1. Install [Pathogen](https://github.com/tpope/vim-pathogen).
+1. Install https://github.com/tpope/vim-pathogen[Pathogen].
 2. `git clone https://github.com/trombonehero/vim-kdump ~/.vim/bundle/vim-kdump`
    (or use submodules if you prefer)
 
